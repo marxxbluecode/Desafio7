@@ -10,4 +10,3 @@ function Cyberpunk(){
     console.log(`Boa tarde ${name}, em 2077 vc vai ter ${(2077 - y) + idade } anos`)
 }
 
-Cyberpunk('Marx', 23)
